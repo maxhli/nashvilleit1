@@ -1,0 +1,1 @@
+echo url="https://www.duckdns.org/update?domains=golang.duckdns.org&token=9a00ed37-10cb-4b47-9a9d-8f36b9b0d7fa&ip=" | curl -k -o ~/duckdns/duck.log -K -
